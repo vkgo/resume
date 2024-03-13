@@ -1,6 +1,6 @@
 # WeiJin Huang 黄韦锦
 
-I'm an undergraduate student with a strong interest in DL. My current research focus is on video segmentation. I have a deep passion for all CS things.
+I'm an undergraduate student with a strong interest in DL. My current research focus is on temporal action. I have a deep passion for all CS things.
 
 In addition to maintaining excellent academic grades, I have been heavily involved in algorithm competitions and research internships, gaining valuable experience and knowledge. Prior to university, I was passionate about computer technology and actively worked on personal projects related to it during secondary school. After enrolling at university, I developed my interest in AI during my undergraduate studies, with a focus on CV, NLP and multimodality. This passion led me to participate in competitions and projects related to these areas. Ultimately, I hope to make significant contributions to the field of deep learning through extensive and meaningful research during my graduate studies.
 
@@ -43,7 +43,7 @@ Several Provincial and School Awards
 
   Principal, National Undergraduate Innovative and Entrepreneurial Training Program
 
-  Our project utilizes a combination of traditional CV algorithms and YOLO to detect and segment answer areas on handwritten sheets. This is followed by grading the sheets using DL models like OCR, layout analysis, and AES. By automating the grading process, our project significantly reduces costs while improving speed and accuracy.
+  Our project utilizes a combination of traditional CV algorithms and YOLO to detect and segment answer areas on handwritten sheets. This is followed by grading the sheets using DL models like OCR, layout analysis, and AES. By automating the grading process, our project significantly reduces costs while improving speed and accuracy. More details can be found in the repository: https://github.com/vkgo/OCRAutoScore
 
 - **Intent classification for financial customer service scenarios with small sample sizes**
 
